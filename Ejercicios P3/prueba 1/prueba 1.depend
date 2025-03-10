@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1738846406 source:c:\users\user\desktop\programacion\prueba 1\main.cpp
+	<iostream>
+	"C:\Users\USER\Desktop\programacion\prueba 1\declaracion.h"
+	"C:\Users\USER\Desktop\programacion\prueba 1\longitud.h"
+	"C:\Users\USER\Desktop\programacion\prueba 1\concatenacion.h"
+	"C:\Users\USER\Desktop\programacion\prueba 1\comparacion.h"
+	"C:\Users\USER\Desktop\programacion\prueba 1\conversion.h"
+	"C:\Users\USER\Desktop\programacion\prueba 1\reservar.h"
+	"C:\Users\USER\Desktop\programacion\prueba 1\subcadena.h"
+	"C:\Users\USER\Desktop\programacion\prueba 1\subcadena.h"
+
+1738847380 c:\users\user\desktop\programacion\prueba 1\declaracion.h
+	<iostream>
+
+1738847380 c:\users\user\desktop\programacion\prueba 1\longitud.h
+	<iostream>
+
+1738847380 c:\users\user\desktop\programacion\prueba 1\concatenacion.h
+	<iostream>
+
+1738768875 c:\users\user\desktop\programacion\prueba 1\comparacion.h
+	<iostream>
+
+1738768793 c:\users\user\desktop\programacion\prueba 1\conversion.h
+	<iostream>
+
+1738769976 c:\users\user\desktop\programacion\prueba 1\reservar.h
+	<iostream>
+	<algorithm>
+
+1738769849 c:\users\user\desktop\programacion\prueba 1\subcadena.h
+	<iostream>
+
