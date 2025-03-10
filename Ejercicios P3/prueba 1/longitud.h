@@ -6,7 +6,7 @@ using namespace std;
  void longitud()
   {
  string frase3;
- frase3="eric ariel inalgo simba";
+ frase3="justin fernando cedeno solano";
  int longitud;
  longitud=frase3.length();
  cout<<frase3<<endl;
