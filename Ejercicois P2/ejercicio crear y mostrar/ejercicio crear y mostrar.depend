@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1736351053 source:c:\users\user\desktop\programacion\ejercicio crear y mostrar\main.cpp
+	<iostream>
+	"C:\Users\USER\Desktop\programacion\ejercicio crear y mostrar\crearInlago.h"
+	"C:\Users\USER\Desktop\programacion\ejercicio crear y mostrar\mostrarInlago.h"
+
+1736350866 c:\users\user\desktop\programacion\ejercicio crear y mostrar\crearinlago.h
+	<iostream>
+
+1736351030 c:\users\user\desktop\programacion\ejercicio crear y mostrar\mostrarinlago.h
+	<iostream>
+	<string>
+
