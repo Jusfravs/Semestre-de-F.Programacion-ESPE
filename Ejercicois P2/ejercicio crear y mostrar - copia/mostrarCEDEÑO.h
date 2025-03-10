@@ -1,5 +1,5 @@
-#ifndef MOSTRARINLAGO_H_INCLUDED
-#define MOSTRARINLAGO_H_INCLUDED
+#ifndef MOSTRARCEDEÑO_H_INCLUDED
+#define MOSTRARCEDEÑO_H_INCLUDED
 
 #include <iostream>
 #include <string>
