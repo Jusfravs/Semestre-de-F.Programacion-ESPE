@@ -1,10 +1,10 @@
-#ifndef CREARINLAGO_H_INCLUDED
-#define CREARINLAGO_H_INCLUDED
+#ifndef CREARCEDEÑO_H_INCLUDED
+#define CREARCEDEÑO_H_INCLUDED
 
 #include <iostream>
 using namespace std;
 
-void crearEric(string &nombre,string &apellido,int &edad)
+void crearJus(string &nombre,string &apellido,int &edad)
 {
 
     cout<<"ingresar nombre"<<endl;
