@@ -17,31 +17,31 @@ int main() {
         cout << "4.- Buscar" << endl;
         cout << "5.- Salir" << endl;
         cout << "*********MENU*********" << endl;
-        cout << "Ingrese la opci髇 que desea realizar" << endl;
+        cout << "Ingrese la opci贸n que desea realizar" << endl;
         cin >> opcion;
         switch (opcion) {
             case 1:
                 cout << "CREAR" << endl;
-                crearCp2(datos1);  // Llamada a la funci髇
-                crearpagos(pagos);  // Llamada a la funci髇
+                crearJp2(datos1);  // Llamada a la funci贸n
+                crearpagos(pagos);  // Llamada a la funci贸n
                 break;
             case 2:
                 cout << "MOSTRAR" << endl;
-                mostrarCp2(datos1);  // Llamada a la funci髇
-                mostrarCp2pagos(pagos);  // Llamada a la funci髇
+                mostrarJp2(datos1);  // Llamada a la funci贸n
+                mostrarCp2pagos(pagos);  // Llamada a la funci贸n
                 break;
             case 3:
                 cout << "CALCULAR" << endl;
                 break;
             case 4:
                 cout << "BUSCAR" << endl;
-                consultarCp2(datos1, pagos);  // Llamada a la funci髇
+                consultarJp2(datos1, pagos);  // Llamada a la funci贸n
                 break;
             case 5:
                 cout << "5.- Salir" << endl;
                 break;
             default:
-                cout << "ERROR INGRESE UNA SOLUCI覰 VALIDA" << endl;
+                cout << "ERROR INGRESE UNA SOLUCI脫N VALIDA" << endl;
         }
     } while (opcion != 5);
     return 0;
