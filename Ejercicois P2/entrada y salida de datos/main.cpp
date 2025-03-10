@@ -3,11 +3,11 @@
 using namespace std;
 
 int main() {
-    ofstream nombre("eric.txt");
-    nombre << "mi nombre es eric" << endl;
+    ofstream nombre("justin.txt");
+    nombre << "mi nombre es justin" << endl;
     nombre.close();
 
-    ifstream archivo("eric.txt");
+    ifstream archivo("justin.txt");
     string line;
 
 
