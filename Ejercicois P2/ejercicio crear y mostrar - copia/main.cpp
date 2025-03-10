@@ -1,13 +1,13 @@
 #include <iostream>
-#include "C:\Users\USER\Desktop\programacion\ejercicio crear y mostrar\crearInlago.h"
-#include "C:\Users\USER\Desktop\programacion\ejercicio crear y mostrar\mostrarInlago.h"
+#include "C:\Users\USER\Desktop\programacion\ejercicio crear y mostrar\crearJUS.h"
+#include "C:\Users\USER\Desktop\programacion\ejercicio crear y mostrar\mostrarJUS.h"
 using namespace std;
 
 int main()
 {
     string nombre,apellido;
     int edad;
-    crearEric (nombre,apellido,edad);
-    mostrarEric (nombre,apellido,edad);
+    crearJUS (nombre,apellido,edad);
+    mostrarJUS (nombre,apellido,edad);
     return 0;
 }
