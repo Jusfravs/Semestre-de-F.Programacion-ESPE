@@ -1,12 +1,12 @@
-#ifndef RESTAINLAGO_H_INCLUDED
-#define RESTAINLAGO_H_INCLUDED
+#ifndef RESTACEDEÑO_H_INCLUDED
+#define RESTACEDEÑO_H_INCLUDED
 
 
 #include <iostream>
 
 using namespace std;
 
-int restar_edad_Eric (int & edad )
+int restar_edad_jus (int & edad )
 
 {
     cout<<"ingresar la resta de la edad"<<endl;
