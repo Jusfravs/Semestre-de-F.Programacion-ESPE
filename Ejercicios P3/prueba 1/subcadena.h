@@ -6,7 +6,7 @@ void subcadena(){
 string frase5;
 frase5="nos gusta programar";
 string apellido;
-apellido=frase5.substr (14,7);
+apellido=frase5.substr (11,9);
 
 cout<<"apellido:"<<apellido<<endl;
 
