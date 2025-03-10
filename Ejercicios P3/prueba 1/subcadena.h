@@ -4,7 +4,7 @@
 using namespace std;
 void subcadena(){
 string frase5;
-frase5="camila sarahi inlago simba";
+frase5="nos encamta programar";
 string apellido;
 apellido=frase5.substr (14,7);
 
