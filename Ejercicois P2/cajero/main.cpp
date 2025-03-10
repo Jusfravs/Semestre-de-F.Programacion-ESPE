@@ -14,9 +14,11 @@ int main()
     cout<<"ingrese el nombre y su apellido"<<endl;
     getline (cin nombre);
     cout<<"ingrese el numero de cedula"<<endl;
+        cin cedula;
+        cout<<"ingrese el numero de cedula"<<endl;
+        cin cuenta
 
 
     return 0;
 }
-void ingresarDatos(string &nombre,&apellido,&cedula,&cuenta,&saldo)
-cout<<"ingrese el nombre"<<endl;
+
